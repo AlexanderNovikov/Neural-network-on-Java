@@ -1,6 +1,5 @@
 package com.novikovav.nn;
 
-import com.novikovav.nn.models.layer.HiddenLayer;
 import com.novikovav.nn.models.network.Network;
 import com.novikovav.nn.models.network.NetworkState;
 import com.novikovav.nn.models.network.NetworkType;
